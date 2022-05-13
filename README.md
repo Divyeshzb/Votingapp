@@ -5,6 +5,7 @@ And you can access roost-controlplane:30030 over a browser
 * For single-node cluster, try roost-worker instead of roost-controlplane
 But this is just the UI
 
+test
 
 Build ballot/Dockerfile
 Apply ballot/ballot.yaml to ZKE
